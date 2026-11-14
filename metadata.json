@@ -1,0 +1,6 @@
+{
+  "name": "Medi Chart",
+  "description": "외래·응급·수술·입원 기록 EMR with Firebase Integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
